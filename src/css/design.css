@@ -1,0 +1,56 @@
+
+body{
+  margin:0;
+  padding: 0;
+  background: url(../images/home.png) no-repeat;
+  background-size: cover;
+
+}
+
+
+.header {
+    padding: 20px;
+    text-align: center;
+    background: rgb(241, 114, 184);
+  }
+
+  .header h1 {
+    font-size: 30px;
+  }
+
+  
+  .topnav {
+    overflow: hidden;
+    background-color: rgb(119, 78, 78);
+  }
+
+  
+div.sticky {
+  position: sticky;
+  top: 0;
+  padding: 0;
+  border: 2px solid #8461d4;
+
+}
+
+
+
+
+  
+
+  
+  .topnav a{
+    float: left;
+    display: block;
+    color: #929191;
+    text-align: center;
+    padding: 10px 50px;
+ 
+  }
+
+  .topnav a:hover {
+    background-color: rgb(240, 118, 118);
+    color: rgb(173, 160, 160);
+  }
+ 
+ 
